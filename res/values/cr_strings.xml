@@ -1229,9 +1229,9 @@
     <string name="netflix_spoof_title">Netflix spoof</string>
     <string name="netflix_spoof_summary">Spoof your device as different model for Netflix</string>
 
-    <!-- Spoof all apps -->
-    <string name="spoof_all_title">Spoof All apps</string>
-    <string name="spoof_all_summary">Spoof all possible apps as Pixel XL for misc benefits (samsung accesories, cts pass etc)</string>
+    <!-- Google Play Integrity Spoof -->
+    <string name="pi_spoof_title">Google Play Integrity spoof</string>
+    <string name="pi_spoof_summary">Spoof your device as different model for Google Play Integrity</string>
 
     <!-- Captive portal -->
     <string name="captive_portal_title">Connectivity check</string>
